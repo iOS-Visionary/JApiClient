@@ -1,0 +1,22 @@
+{
+  "name": "JApiClient",
+  "version": "0.1.0",
+  "summary": "A short description of JApiClient.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/1143789989@qq.com/JApiClient",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1143789989@qq.com": "1143789989@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/1143789989@qq.com/JApiClient.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JApiClient/Classes/**/*"
+}

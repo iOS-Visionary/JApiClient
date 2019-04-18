@@ -1,0 +1,6 @@
+framework module JApiClient {
+  umbrella header "JApiClient-umbrella.h"
+
+  export *
+  module * { export * }
+}
