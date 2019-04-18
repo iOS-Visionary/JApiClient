@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JApiClient_Example' do
+  pod 'JApiClient', :path => '../'
+
+  target 'JApiClient_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
